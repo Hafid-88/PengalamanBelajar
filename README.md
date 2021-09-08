@@ -2,6 +2,7 @@
 Repository ini Berisi Pengalaman Belajarku di Dicoding
 
 **4 September 2021**
+
 Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
 * Git dan GitHub
   * Pengantar Git dan GitHub
@@ -11,6 +12,7 @@ Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
   * Latihan Mengeksplorasi Proyek GitHub
 
 **5 September 2021**
+
 Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
 * Git dan GitHub
   * Latihan Mengenal GitHub Dashboard
@@ -19,6 +21,7 @@ Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
   * Kuis Git dan GitHub
 
 **6 September 2021**
+
 Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
 * Dasar Git
   * Pengantar Dasar Git
@@ -30,6 +33,7 @@ Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
   * Latihan Menambahkan File Baru
 
 **7 September 2021**
+
 Belajar Dasar Git dengan GitHub. (Progres 38%)
 * Dasar Git
   * Latihan Mengubah Data dalam Berkas Menggunakan Commit 
