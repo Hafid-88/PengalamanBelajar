@@ -44,3 +44,15 @@ Belajar Dasar Git dengan GitHub. (Progres 38%)
 * Studi Kasus Pengalaman Belajar
   * Persiapan Studi Kasus Pengalaman Belajar
   * Membuat Repository Baru
+
+**8 September 2021**
+Belajar Dasar Git dengan GitHub. (Progres 48%)
+* Studi Kasus Pengalaman Belajar
+  * Menambahkan Pengalaman Belajar Pertama
+  * Menambahkan Kembali Progres Belajar
+  * Mengubah Tampilan Menggunakan Format Markdown
+  * Tantangan Menambahkan Progres Belajar
+  * Melihat History Perubahan
+  * Merilis Dokumentasi Pengalaman Belajar
+  * Rangkuman Studi Kasus Pengalaman Belajar
+  * Kuis Studi Kasus Pengalaman Belajar
