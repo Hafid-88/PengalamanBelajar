@@ -1,5 +1,21 @@
 # PengalamanBelajar
 Repository ini Berisi Pengalaman Belajarku di Dicoding
+**4 September 2021**
+Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
+* Git dan GitHub
+  * Pengantar Git dan GitHub
+  * Mengenal Git secara Lebih Dalam
+  * Mengenal GitHub secara Lebih Dalam
+  * Latihan Membuat Akun GitHub
+  * Latihan Mengeksplorasi Proyek GitHub
+
+**5 September 2021**
+Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
+* Git dan GitHub
+  * Latihan Mengenal GitHub Dashboard
+  * Notifikasi GitHub
+  * Rangkuman Git dan Github
+  * Kuis Git dan GitHub
 
 **6 September 2021**
 Belajar Dasar Git dengan GitHub. (Progres tidak diketahui)
