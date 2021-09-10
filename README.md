@@ -46,6 +46,7 @@ Belajar Dasar Git dengan GitHub. (Progres 38%)
   * Membuat Repository Baru
 
 **8 September 2021**
+
 Belajar Dasar Git dengan GitHub. (Progres 48%)
 * Studi Kasus Pengalaman Belajar
   * Menambahkan Pengalaman Belajar Pertama
@@ -56,3 +57,18 @@ Belajar Dasar Git dengan GitHub. (Progres 48%)
   * Merilis Dokumentasi Pengalaman Belajar
   * Rangkuman Studi Kasus Pengalaman Belajar
   * Kuis Studi Kasus Pengalaman Belajar
+
+**10 September 2021**
+
+Belajar Dasar Git dengan GitHub. (Progres 61%)
+* Git Branches
+  * Pengantar Git Branches
+  * Apa itu Branch
+  * Latihan Membuat Branch Baru
+  * Latihan Melakukan Perpindahan Branch
+  * Apa itu Merge
+  * Apa itu Pull Request
+  * Latihan Melakukan Merge
+  * Latihan Menyelesaikan Merge Conflict
+  * Rangkuman Git Branches
+  * Kuis Git Branches
