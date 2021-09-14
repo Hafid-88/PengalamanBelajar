@@ -72,3 +72,13 @@ Belajar Dasar Git dengan GitHub. (Progres 61%)
   * Latihan Menyelesaikan Merge Conflict
   * Rangkuman Git Branches
   * Kuis Git Branches
+
+**14 September 2021**
+
+Belajar Dasar Git dengan GitHub. (Progres 67%)
+* Kolaborasi Dengan Tim
+  * Pengantar Kolaborasi dengan Tim
+  * Apa itu Kolaborasi
+  * Latihan Berkolaborasi dengan Tim
+  * Apa Itu Fork
+  * Latihan Berkolaborasi pada Public Repository
