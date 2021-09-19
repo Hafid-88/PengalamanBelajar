@@ -102,3 +102,24 @@ Belajar Dasar Git dengan GitHub. (Progres 84%)
   * Menyalin Repository
   * Menambahkan Data Diri dalam Berkas README.md
   * Melakukan Pull Request
+
+**19 September 2021**
+
+Belajar Dasar Git dengan GitHub. (Progres 100%)
+* Studi Kasus Kolaborasi dengan Tim
+  * Menangani Pull Request
+  * Tantangan Melakukan Pull-Request pada Repository Dicoding
+  * Rangkuman Studi Kasus Kolaborasi dengan Tim
+  * Kuis Studi Kasus Kolaborasi dengan Tim
+
+* GitHub sebagai Portofolio
+  * Pengantar GitHub sebagai Portofolio
+  * Mengapa GitHub Menjadi Portofolio para Developer
+  * Latihan Membuat Portofolio Menggunakan GitHub
+  * Latihan Melihat Portofolio para Developer
+  * Rangkuman GitHub sebagai Portofolio
+  * Kuis GitHub sebagai Portofolio
+
+* Penutup
+  * Rangkuman Kelas
+  * Ujian Akhir
