@@ -82,3 +82,23 @@ Belajar Dasar Git dengan GitHub. (Progres 67%)
   * Latihan Berkolaborasi dengan Tim
   * Apa Itu Fork
   * Latihan Berkolaborasi pada Public Repository
+
+**18 September 2021**
+
+Belajar Dasar Git dengan GitHub. (Progres 84%)
+* Kolaborasi Dengan Tim
+  * Latihan Melakukan Revert
+  * Apa Itu Squashing Changes
+  * Latihan Melakukan Squashing Changes
+  * Apa Itu Code Reviews
+  * Latihan Melakukan Code Reviews
+  * Rangkuman Kolaborasi dengan Tim
+  * Kuis Kolaborasi dengan Tim
+
+* Studi Kasus Kolaborasi dengan Tim
+  * Persiapan Studi Kasus Kolaborasi dengan Tim
+  * Membuat Repository Baru
+  * Menambahkan Aturan Mendaftar Volunter
+  * Menyalin Repository
+  * Menambahkan Data Diri dalam Berkas README.md
+  * Melakukan Pull Request
